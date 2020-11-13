@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://forounivers.com/uploads/monthly_2019_02/large.939550796_CDFPremium(2019).png.928254f80ab60b9cd8ce8f4d4cf068c8.png" , CDF HD
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/V_yJ9oXPxe5ORrFD-r_FPrmSwqwAqIsTDk0Z7Nw1W3IvpXE97UAEe_uDmGWOXzoqYuhIVf6hzLs5NSiIb6Z_yA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
+#EXTM3U
+#EXTINF:-1, tvg-logo="https://forounivers.com/uploads/monthly_2019_02/large.939550796_CDFPremium(2019).png.928254f80ab60b9cd8ce8f4d4cf068c8.png" , CDF Premium
+http://89.105.194.59:25461/live/w$$lRll$f/w$$lRll$f/159.m3u8
