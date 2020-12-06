@@ -3,7 +3,7 @@
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/V_yJ9oXPxe5ORrFD-r_FPrmSwqwAqIsTDk0Z7Nw1W3IvpXE97UAEe_uDmGWOXzoqYuhIVf6hzLs5NSiIb6Z_yA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://forounivers.com/uploads/monthly_2019_02/large.939550796_CDFPremium(2019).png.928254f80ab60b9cd8ce8f4d4cf068c8.png" , CDF Premium 1 (OK)
+#EXTINF:-1, tvg-logo="https://forounivers.com/uploads/monthly_2019_02/large.939550796_CDFPremium(2019).png.928254f80ab60b9cd8ce8f4d4cf068c8.png" , CDF Premium 1 (Lento)
 http://ul.cdn946.net:8080/hls/hogq78.m3u8?s=4AFhE-eZjdtr75eLdov4gw&e=1607284402
 
 #EXTM3U
@@ -11,7 +11,7 @@ http://ul.cdn946.net:8080/hls/hogq78.m3u8?s=4AFhE-eZjdtr75eLdov4gw&e=1607284402
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/v_FwbOK9oN34DaezAjV8KadbekTPfkiBW2Wu5pKwzG8Lh1ijQLGFETkxlC2NYgTfQwwL0iAbR1AeeY96EbK5lg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://forounivers.com/uploads/monthly_2019_02/large.939550796_CDFPremium(2019).png.928254f80ab60b9cd8ce8f4d4cf068c8.png" , CDF Premium 3 (lento)
+#EXTINF:-1, tvg-logo="https://forounivers.com/uploads/monthly_2019_02/large.939550796_CDFPremium(2019).png.928254f80ab60b9cd8ce8f4d4cf068c8.png" , CDF Premium 3 (OFF)
 http://ul.cdn946.net:8080/hls/hogq78.m3u8?s=nTM-72mkXUzHjMxGzmq0HA&e=1606278412
 
 #EXTM3U
