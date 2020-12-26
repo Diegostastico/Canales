@@ -4,7 +4,7 @@ https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/V_yJ9oXPxe5ORr
 
 #EXTM3U
 #EXTINF:-1, CDF Premium 1 (OK)
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/W-2VEfJZ7JR71arFSLCstFFp_PnPp5ECKoY9-QDX6zs6PLHAwbGxGIstDE2UqpHRF_gQVby3sHyDcAy59ixM9w/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/kGXLV8ToPSsF_kRimbIe4PhPRNs9wR380wvnznmGRk3m06ZRODLKDHS5_Ty2n05DCQTn0ZdRc1UkVN9hAODgag/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTM3U
 #EXTINF:-1, CDF Premium 2 (OK)
