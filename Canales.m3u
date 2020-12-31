@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, CDF HD (OK)
+#EXTINF:-1, CDF HD (OFF)
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/V_yJ9oXPxe5ORrFD-r_FPrmSwqwAqIsTDk0Z7Nw1W3IvpXE97UAEe_uDmGWOXzoqYuhIVf6hzLs5NSiIb6Z_yA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTM3U
@@ -7,7 +7,7 @@ https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/V_yJ9oXPxe5ORr
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/kGXLV8ToPSsF_kRimbIe4PhPRNs9wR380wvnznmGRk3m06ZRODLKDHS5_Ty2n05DCQTn0ZdRc1UkVN9hAODgag/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTM3U
-#EXTINF:-1, CDF Premium 2 (OK)
+#EXTINF:-1, CDF Premium 2 (OFF)
 https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/ojp8ctoyeycj6.m3u8?s=g5lXnJ9pq3dscUzIQenklg&e=1609047611
 
 #EXTM3U
