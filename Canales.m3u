@@ -3,6 +3,14 @@
 https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/194_.m3u8?token=EBpUrqAVanikxymy-c2UHg&expires=1620516258
 
 #EXTM3U
+#EXTINF:-1, TNT Sports
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/14727.m3u8
+
+#EXTM3U
+#EXTINF:-1, TNT Sports
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/18493.m3u8
+
+#EXTM3U
 #EXTINF:-1, El Chavo TV
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8?WebM3UCL
 
